@@ -4,10 +4,8 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/api-gateway-e2e"
-    },
-    {
-      "path": "./apps/api-gateway"
+      "path": "./apps/api-gateway",
+      "name": "api-gateway"
     }
   ]
 }
